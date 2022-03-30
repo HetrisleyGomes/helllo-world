@@ -9,6 +9,7 @@ Olá, estou estudando para ser um programador full stack, das linguagens que eu 
     * Puro
     * Spring boot & Thymleaf
   * Python
+    * Análize de dados
 
 * Linguagens Front-end:
   * Vue.js
@@ -17,4 +18,3 @@ Olá, estou estudando para ser um programador full stack, das linguagens que eu 
   * SQL
   * JSON
 
-Outras linguagens que eu gostaria de aprender:
